@@ -40,7 +40,7 @@ So when you add or rename a token in `@theme` in **`src/index.css`**, those clas
 - **`src/index.css`** — Edit tokens here. Primitives at the top, then semantic, then component. Comments explain each block.
 - **`src/tailwind-reference.css`** — Reference only (not imported). Lists the Tailwind classes used in the app and which ones map to tokens, so you can see token → class at a glance.
 
-### Running the app
+### Running the apps
 
 From the project root:
 
